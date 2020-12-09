@@ -1,5 +1,5 @@
 # Purpose
-This collection of files generates open book data by parsing autotest game data using BeautifulSoup and compiling moves from winning games into the book. Big thanks to Johnny Bui for providing the code for `competition.py`!
+This collection of files was created for MIT 6.172 Performance Engineering (Fall 2020) to generate open book data by parsing autotest game data using BeautifulSoup and compiling moves from winning games into the book. Big thanks to Johnny Bui for providing the base code for `competition.py`!
 
 # Setup
 1) Provide URL of autotests to `AUTOTEST_URL`
