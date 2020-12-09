@@ -1,0 +1,11 @@
+# Pycharm files
+.idea/
+
+# pycache
+__pycache__/
+
+# pickled files
+pickle/
+
+# local file used for debugging
+sandbox.py
